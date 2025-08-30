@@ -1,0 +1,10 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+#skills {
+    background: linear-gradient(to right, #1e1e1e, #2c2c2c);
+}
